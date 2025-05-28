@@ -1,4 +1,6 @@
 ## Hi there 👋
+## Pronouns: He/Him
+![863344e36357ab5caa8aec0b1fefd8e6-transformed](https://github.com/user-attachments/assets/f15ab4e6-519f-4955-8c7c-771b614658a2)
 
 <!--
 **blakecbaldwin/blakecbaldwin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
